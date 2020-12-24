@@ -12,3 +12,4 @@
 # Resources
 - Transfer learning models (https://keras.io/api/applications/)
 - Udemy course for introduction to AI (https://www.udemy.com/share/101WmQA0odcF9bTXw=/)
+- Stanford lecture series on Convolutional Neural Nets (https://youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
