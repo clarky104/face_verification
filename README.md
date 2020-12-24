@@ -11,3 +11,4 @@
 
 # Resources
 - Transfer learning models (https://keras.io/api/applications/)
+- Udemy course for introduction to AI (https://www.udemy.com/share/101WmQA0odcF9bTXw=/)
